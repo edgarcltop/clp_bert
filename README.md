@@ -1,6 +1,6 @@
-# Clpbert
+# Clpba
 
- Clpbert, an efficient framework for 
+ Clpba, an efficient framework for 
 end-to-end learning for image-text and video-text tasks. 
 It takes raw videos/images + text as inputs, and outputs task predictions.
 ClpBERT is designed based on 2D CNNs and transformers, and uses a sparse sampling strategy 
